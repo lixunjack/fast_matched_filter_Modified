@@ -1,3 +1,5 @@
+# (10, June, 2024) Jack Modified from original MIT release version, most part of the repository is not my work
+
 # fast_matched_filter (FMF)
 
 An efficient seismic matched-filter search for both CPU and GPU architectures. Documentation at https://ebeauce.github.io/FMF_documentation/.
